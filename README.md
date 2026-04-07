@@ -2,7 +2,7 @@
 
 This repository contains an end‑to‑end **machine learning project** that predicts the **auction sale price of bulldozers** based on historical sales data and equipment features. The notebook applies data preprocessing, feature engineering, model training, and evaluation to build a regression model.  
 
-The project is based on the **Bluebook for Bulldozers** dataset. :contentReference[oaicite:1]{index=1}
+The project is based on the **Bluebook for Bulldozers** dataset.
 
 ---
 
